@@ -35,13 +35,13 @@ And that's all folks.
 **Number of Hackathon's Won:** 7 Hackathons
 
 🏅Achievements Accomplished 🏅
-2016 - Top Prize, Ed-Tech Hackathon
-2016 - Top Prize, Best use of IBM Bluemix, Fin-tech Challenge
-2016 - #Data-Driven Hackathon 2016, *Rated best project Year 2016
-2017 - #Data-Driven Hackathon 2017, * Rated one of the best project 2017 and by commendation
-2018 - 3rd Prize, #SPSEC Hackathon 2018, Singapore Polytechnic Hackathon
-2018 - 2nd Prize, #Mosque-Tech Challenge 2018, Global Warming Challenge
-2019 - Third prize, #Mosque-Tech Challenge 2019, Healthy Living
+- 2016 - Top Prize, Ed-Tech Hackathon
+- 2016 - Top Prize, Best use of IBM Bluemix, Fin-tech Challenge
+- 2016 - #Data-Driven Hackathon 2016, *Rated best project Year 2016
+- 2017 - #Data-Driven Hackathon 2017, * Rated one of the best project 2017 and by commendation
+- 2018 - 3rd Prize, #SPSEC Hackathon 2018, Singapore Polytechnic Hackathon
+- 2018 - 2nd Prize, #Mosque-Tech Challenge 2018, Global Warming Challenge
+- 2019 - Third prize, #Mosque-Tech Challenge 2019, Healthy Living
 
 
 ### Sites to Visit:
