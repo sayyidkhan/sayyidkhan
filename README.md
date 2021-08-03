@@ -21,13 +21,13 @@ And that's all folks.
 
 ### Software Engineering Experience
 🎯 My Domain Knowledge 🎯
-● HTML, CSS, Javascript, Typescript, Angular 7, React
-● Microsoft Excel / Visual Basic / Visual Basic for Applications with Excel
-● Python / Java / Dart
-● Anaconda Python / Java Springboot / Flutter
-● MySQL/ Firebase / MongoDB
-● GIT / Jenkins / CI / CD
-● Linux / VirtualBox
+- HTML, CSS, Javascript, Typescript, Angular 7, React
+- Microsoft Excel / Visual Basic / Visual Basic for Applications with Excel
+- Python / Java / Dart
+- Anaconda Python / Java Springboot / Flutter
+- MySQL/ Firebase / MongoDB
+- GIT / Jenkins / CI / CD
+- Linux / VirtualBox
 
 ### Hackathon Journey
 ##### **Number of Hackathon's Participated & Completed:** 30 Hackathons
