@@ -15,7 +15,7 @@ backend language i worked with then later on node.js.
 Before i know it, i landed a job in software engineering doing full-stack development
 in java springboot and anuglar on the frontend.
 
-![image](https://user-images.githubusercontent.com/22993048/128046364-1b3ccecd-f477-4636-a59d-d42ad3dce015.png)
+![image](https://user-images.githubusercontent.com/22993048/128046364-1b3ccecd-f477-4636-a59d-d42ad3dce015.png =100x100)
 
 And that's all folks.
 
