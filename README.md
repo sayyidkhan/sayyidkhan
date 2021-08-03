@@ -30,9 +30,9 @@ And that's all folks.
 ● Linux / VirtualBox
 
 ### Hackathon Journey
-**Number of Hackathon's Participated & Completed:** 30 Hackathons
-**Number of days spent at hackathon's:** 60 days
-**Number of Hackathon's Won:** 7 Hackathons
+##### **Number of Hackathon's Participated & Completed:** 30 Hackathons
+##### **Number of days spent at hackathon's:** 60 days
+##### **Number of Hackathon's Won:** 7 Hackathons
 
 🏅Achievements Accomplished 🏅
 - 2016 - Top Prize, Ed-Tech Hackathon
