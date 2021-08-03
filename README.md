@@ -23,7 +23,7 @@ And that's all folks.
 🎯 My Domain Knowledge 🎯
 - HTML, CSS, Javascript, Typescript, Angular 7, React
 - Microsoft Excel / Visual Basic / Visual Basic for Applications with Excel
-- Python / Java / Dart
+- Python / Java / Dart / Node.js
 - Anaconda Python / Java Springboot / Flutter
 - MySQL/ Firebase / MongoDB
 - GIT / Jenkins / CI / CD
