@@ -41,8 +41,8 @@ And that's all folks.
 - 2017 - #Data-Driven Hackathon 2017, * Rated one of the best project 2017 and by commendation
 - 2018 - 3rd Prize, #SPSEC Hackathon 2018, Singapore Polytechnic Hackathon
 - 2018 - 2nd Prize, #Mosque-Tech Challenge 2018, Global Warming Challenge
-- 2019 - Third prize, #Mosque-Tech Challenge 2019, Healthy Living
-- 2023 - Third prize, ICP Blockchain Ideathon 2023
+- 2019 - 3rd prize, #Mosque-Tech Challenge 2019, Healthy Living
+- 2023 - 3rd prize, ICP Blockchain Ideathon 2023
 
 
 ### Sites to Visit:
