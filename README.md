@@ -42,6 +42,7 @@ And that's all folks.
 - 2018 - 3rd Prize, #SPSEC Hackathon 2018, Singapore Polytechnic Hackathon
 - 2018 - 2nd Prize, #Mosque-Tech Challenge 2018, Global Warming Challenge
 - 2019 - Third prize, #Mosque-Tech Challenge 2019, Healthy Living
+- 2023 - Third prize, ICP Blockchain Ideathon 2023
 
 
 ### Sites to Visit:
