@@ -43,6 +43,7 @@ And that's all folks.
 - 2018 - 2nd Prize, #Mosque-Tech Challenge 2018, Global Warming Challenge
 - 2019 - 3rd prize, #Mosque-Tech Challenge 2019, Healthy Living
 - 2023 - 3rd prize, ICP Blockchain Ideathon 2023
+- 2025 - 2nd Prize, #Mosque-Tech Challenge 2025 (Nurturing Families)
 
 
 ### Sites to Visit:
