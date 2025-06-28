@@ -30,7 +30,7 @@ And that's all folks.
 - AWS / Azure
 
 ### Hackathon Journey
-##### **Number of Hackathon's Participated & Completed:** 33 Hackathons
+##### **Number of Hackathon's Participated & Completed:** 36 Hackathons
 ##### **Number of days spent at hackathon's:** 65 days
 ##### **Number of Hackathon's Won:** 9 Hackathons
 
