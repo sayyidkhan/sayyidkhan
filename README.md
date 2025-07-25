@@ -32,7 +32,8 @@ And that's all folks.
 ### Hackathon Journey
 ##### **Number of Hackathon's Participated & Completed:** 36 Hackathons
 ##### **Number of days spent at hackathon's:** 65 days
-##### **Number of Hackathon's Won:** 9 Hackathons
+##### **Number of Hackathon's Won:** 10 Hackathons
+##### **Number of Awards Won:** -
 
 🏅Achievements Accomplished 🏅
 - 2016 - Top Prize, Ed-Tech Hackathon
