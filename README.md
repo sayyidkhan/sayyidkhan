@@ -30,9 +30,9 @@ And that's all folks.
 - AWS / Azure
 
 ### Hackathon Journey
-##### **Number of Hackathon's Participated & Completed:** 36 Hackathons
-##### **Number of days spent at hackathon's:** 65 days
-##### **Number of Hackathon's Won:** 10 Hackathons
+##### **Number of Hackathon's Participated & Completed:** 53 Hackathons
+##### **Number of days spent at hackathon's:** 94 days
+##### **Number of Hackathon's Won:** 15 Hackathons
 ##### **Number of Awards Won:** -
 
 🏅Achievements Accomplished 🏅
@@ -45,7 +45,11 @@ And that's all folks.
 - 2019 - 3rd prize, #Mosque-Tech Challenge 2019, Healthy Living
 - 2023 - 3rd prize, ICP Blockchain Ideathon 2023
 - 2025 - 2nd Prize, #Mosque-Tech Challenge 2025 (Nurturing Families)
+- 2025 - Rated Best Hackathon Finisher, SG X Sarawak Art Tech Hackathon 2025
 - 2025 - 2nd Prize, Manus Ai & OJUU VR Hackathon
+- 2025 - 1st Prize, Nosana AI Agents & Mastra.dev Hackathon 2025
+- 2026 - 1st Prize, AgentField AI Agents Hackathon 2026
+- 2026 - Double 1st prize, Agent Forge AI Agents Hackathon 2026
 
 
 ### Sites to Visit:
