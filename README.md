@@ -30,9 +30,10 @@ And that's all folks.
 - AWS / Azure
 
 ### Hackathon Journey
-##### **Number of Hackathon's Participated & Completed:** 53 Hackathons
+##### **On a Journey to complete 100 Hackathons**
+##### **Number of Hackathon's Participated & Completed:** 57 Hackathons
 ##### **Number of days spent at hackathon's:** 94 days
-##### **Number of Hackathon's Won:** 15 Hackathons
+##### **Number of Hackathon's Won:** 17 Hackathons
 ##### **Number of Awards Won:** -
 
 🏅Achievements Accomplished 🏅
@@ -50,6 +51,8 @@ And that's all folks.
 - 2025 - 1st Prize, Nosana AI Agents & Mastra.dev Hackathon 2025
 - 2026 - 1st Prize, AgentField AI Agents Hackathon 2026
 - 2026 - Double 1st prize, Agent Forge AI Agents Hackathon 2026
+- 2026 - 2nd Prize, SUSS X OpenClaw Hackathon 2026
+- 2026 - 3rd Prize, Voice AI Agents - Agora.io Hackathon SG 2026
 
 
 ### Sites to Visit:
