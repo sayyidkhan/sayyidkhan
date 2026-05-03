@@ -31,9 +31,9 @@ And that's all folks.
 
 ### Hackathon Journey
 ##### **On a Journey to complete 100 Hackathons**
-##### **Number of Hackathon's Participated & Completed:** 57 Hackathons
-##### **Number of days spent at hackathon's:** 94 days
-##### **Number of Hackathon's Won:** 17 Hackathons
+##### **Number of Hackathon's Participated & Completed:** 63 Hackathons
+##### **Number of days spent at hackathon's:** 104 days
+##### **Number of Hackathon's Won:** 19 Hackathons
 ##### **Number of Awards Won:** -
 
 🏅Achievements Accomplished 🏅
@@ -53,6 +53,8 @@ And that's all folks.
 - 2026 - Double 1st prize, Agent Forge AI Agents Hackathon 2026
 - 2026 - 2nd Prize, SUSS X OpenClaw Hackathon 2026
 - 2026 - 3rd Prize, Voice AI Agents - Agora.io Hackathon SG 2026
+- 2026 - 2K Speechmatic Credits
+- 2026 - 2nd Prize, A v0 sock flown from the US
 
 
 ### Sites to Visit:
