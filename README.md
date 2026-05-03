@@ -53,7 +53,7 @@ And that's all folks.
 - 2026 - Double 1st prize, Agent Forge AI Agents Hackathon 2026
 - 2026 - 2nd Prize, SUSS X OpenClaw Hackathon 2026
 - 2026 - 3rd Prize, Voice AI Agents - Agora.io Hackathon SG 2026
-- 2026 - 2K Speechmatic Credits
+- 2026 - 2K USD Speechmatic Credits
 - 2026 - 2nd Prize, A v0 sock flown from the US
 
 
