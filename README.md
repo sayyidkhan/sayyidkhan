@@ -1,19 +1,19 @@
 ### Hi there 👋
-I am a full-stack software engineer. Once upon a time, i was a nobody and not
-trained in the IT industry. I started my first job as a graphics designer and
-not knowing what i want in my life and career.
+I'm Sayyid — a Full-Stack & Agentic AI Engineer who enjoys turning ideas into working products.
 
-After going through singapore army (national service), the time i spent there
-gave me the perspective that i like to build products. I felt that there is 
-more scalability in my career to learn front-end development since i was
-inclined towards design at the point of time. Later on, i realised that more
-value and features can be introduced by adding a backend to your application.
+My journey into technology wasn't a conventional one.
 
-Thats when I started to learn backend programming language, python was my first
-backend language i worked with then later on node.js.
+I started my career as a graphics designer without formal training in IT or a clear idea of where my career would take me. During National Service, I began thinking more seriously about what I wanted to build with my career. I realised I enjoyed creating products — not just designing how they looked, but understanding how they worked.
 
-Before i know it, i landed a job in software engineering doing full-stack development
-in java springboot and anuglar on the frontend.
+That led me into software engineering.
+
+I started with frontend development because of my design background. Eventually, I realised that the real power of a product comes from connecting the frontend to the systems behind it. I began learning backend development, starting with Python and later Node.js.
+
+From there, I moved into professional software engineering, working with technologies such as Java, Spring Boot, Angular, React, TypeScript and cloud infrastructure.
+
+Today, my focus has evolved again: Agentic AI and AI-native product engineering.
+
+I build AI agents, multi-agent systems, intelligent workflows and full-stack applications that combine LLMs with real software systems, APIs, databases and business processes.
 
 <img src="https://user-images.githubusercontent.com/22993048/128046364-1b3ccecd-f477-4636-a59d-d42ad3dce015.png" width="150" height="150" />
 
