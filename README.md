@@ -21,13 +21,13 @@ And that's all folks.
 
 ### Software Engineering Experience
 🎯 My Domain Knowledge 🎯
-- HTML, CSS, Javascript, Typescript, React
-- Python / Java / Dart / Golang
-- Django / Java Springboot / Node.Js / Flutter / React Native
-- MySQL / Firebase / MongoDB / Planetscale
-- GIT / Jenkins / CI & CD
-- Linux / VirtualBox
-- AWS / Azure
+● Agentic AI — AI Agents, Multi-Agent Systems, MCP, A2A, RAG, Tool Calling & LLM Orchestration
+● AI Product Engineering — LLM Applications, AI Automation, Intelligent Workflows & AI-native Products
+● Full-Stack Engineering — React, Angular, TypeScript, Python, Java, Spring Boot, Node.js & Golang
+● Cloud & DevOps — Docker, Linux, Git, CI/CD, Jenkins & Cloud Deployment
+● Data & Infrastructure — SQL, MongoDB, Firebase, Vector Databases & Data Pipelines
+● Mobile & Cross-Platform — React Native & Flutter
+● Rapid Product Development — MVPs, Prototypes, Hackathon Builds & POCs
 
 ### Hackathon Journey
 ##### **On a Journey to complete 100 Hackathons**
