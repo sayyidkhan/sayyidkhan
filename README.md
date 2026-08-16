@@ -1,19 +1,19 @@
 ### Hi there 👋
-I'm Sayyid — a Full-Stack & Agentic AI Engineer who enjoys turning ideas into working products.
+I'm Sayyid — a **Full-Stack & Agentic AI Engineer** who enjoys turning ideas into working products.
 
 My journey into technology wasn't a conventional one.
 
-I started my career as a graphics designer without formal training in IT or a clear idea of where my career would take me. During National Service, I began thinking more seriously about what I wanted to build with my career. I realised I enjoyed creating products not just designing how they looked, but understanding how they worked.
+I started my career as a **graphics designer** without formal training in IT or a clear idea of where my career would take me. During **National Service**, I began thinking more seriously about what I wanted to build with my career. I realised I enjoyed creating products not just designing how they looked, but understanding how they worked.
 
-That led me into software engineering.
+That led me into **software engineering**.
 
-I started with frontend development because of my design background. Eventually, I realised that the real power of a product comes from connecting the frontend to the systems behind it. I began learning backend development, starting with Python and later Node.js.
+I started with **frontend development** because of my design background. Eventually, I realised that the real power of a product comes from connecting the frontend to the systems behind it. I began learning **backend development**, starting with **Python** and later **Node.js**.
 
-From there, I moved into professional software engineering, working with technologies such as Java, Spring Boot, Angular, React, TypeScript and cloud infrastructure.
+From there, I moved into professional software engineering, working with technologies such as **Java**, **Spring Boot**, **Angular**, **React**, **TypeScript**, and **cloud infrastructure**.
 
-Today, my focus has evolved again: Agentic AI and AI-native product engineering.
+Today, my focus has evolved again: **Agentic AI** and **AI-native product engineering**.
 
-I build AI agents, multi-agent systems, intelligent workflows and full-stack applications that combine LLMs with real software systems, APIs, databases and business processes.
+I build **AI agents**, **multi-agent systems**, **intelligent workflows**, and full-stack applications that combine **LLMs** with real software systems, **APIs**, **databases**, and **business processes**.
 
 <img src="https://user-images.githubusercontent.com/22993048/128046364-1b3ccecd-f477-4636-a59d-d42ad3dce015.png" width="150" height="150" />
 
