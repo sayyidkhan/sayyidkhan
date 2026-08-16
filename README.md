@@ -3,7 +3,7 @@ I'm Sayyid — a Full-Stack & Agentic AI Engineer who enjoys turning ideas into 
 
 My journey into technology wasn't a conventional one.
 
-I started my career as a graphics designer without formal training in IT or a clear idea of where my career would take me. During National Service, I began thinking more seriously about what I wanted to build with my career. I realised I enjoyed creating products — not just designing how they looked, but understanding how they worked.
+I started my career as a graphics designer without formal training in IT or a clear idea of where my career would take me. During National Service, I began thinking more seriously about what I wanted to build with my career. I realised I enjoyed creating products not just designing how they looked, but understanding how they worked.
 
 That led me into software engineering.
 
