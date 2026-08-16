@@ -20,14 +20,14 @@ in java springboot and anuglar on the frontend.
 And that's all folks.
 
 ### Software Engineering Experience
-🎯 My Domain Knowledge 🎯
-● Agentic AI — AI Agents, Multi-Agent Systems, MCP, A2A, RAG, Tool Calling & LLM Orchestration
-● AI Product Engineering — LLM Applications, AI Automation, Intelligent Workflows & AI-native Products
-● Full-Stack Engineering — React, Angular, TypeScript, Python, Java, Spring Boot, Node.js & Golang
-● Cloud & DevOps — Docker, Linux, Git, CI/CD, Jenkins & Cloud Deployment
-● Data & Infrastructure — SQL, MongoDB, Firebase, Vector Databases & Data Pipelines
-● Mobile & Cross-Platform — React Native & Flutter
-● Rapid Product Development — MVPs, Prototypes, Hackathon Builds & POCs
+🎯 My Domain Knowledge 🎯<br>
+● Agentic AI — AI Agents, Multi-Agent Systems, MCP, A2A, RAG, Tool Calling & LLM Orchestration<br>
+● AI Product Engineering — LLM Applications, AI Automation, Intelligent Workflows & AI-native Products<br>
+● Full-Stack Engineering — React, Angular, TypeScript, Python, Java, Spring Boot, Node.js & Golang<br>
+● Cloud & DevOps — Docker, Linux, Git, CI/CD, Jenkins & Cloud Deployment<br>
+● Data & Infrastructure — SQL, MongoDB, Firebase, Vector Databases & Data Pipelines<br>
+● Mobile & Cross-Platform — React Native & Flutter<br>
+● Rapid Product Development — MVPs, Prototypes, Hackathon Builds & POCs<br>
 
 ### Hackathon Journey
 ##### **On a Journey to complete 100 Hackathons**
