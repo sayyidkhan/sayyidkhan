@@ -54,7 +54,7 @@ And that's all folks.
 - 2026 - 2nd Prize, SUSS X OpenClaw Hackathon 2026
 - 2026 - 3rd Prize, Voice AI Agents - Agora.io Hackathon SG 2026
 - 2026 - Best Use of Voice AI Agent, 2K Speechmatics Credits
-- 2026 - 2nd Prize, A v0 sock flown from the US
+- 2026 - 2nd Prize, Vercel Zero to Agent: Singapore 2026, A v0 sock flown from the US
 - 2026 - Top 20 finalist for UCWS Hackathon 2026, 10K USD API Credits
 - 2026 - Top 30 finalist for BUIDL_OPC_Hackathon_SG, 4.5K USD AWS API Credits
 
