@@ -31,9 +31,9 @@ And that's all folks.
 
 ### Hackathon Journey
 ##### **On a Journey to complete 100 Hackathons**
-##### **Number of Hackathon's Participated & Completed:** 63 Hackathons
-##### **Number of days spent at hackathon's:** 104 days
-##### **Number of Hackathon's Won:** 19 Hackathons
+##### **Number of Hackathon's Participated & Completed:** 75 Hackathons
+##### **Number of days spent at hackathon's:** 201 days
+##### **Number of Hackathon's Won:** 22 Hackathons
 ##### **Number of Awards Won:** -
 
 🏅Achievements Accomplished 🏅
@@ -57,6 +57,7 @@ And that's all folks.
 - 2026 - 2nd Prize, Vercel Zero to Agent: Singapore 2026, A v0 sock flown from the US
 - 2026 - Top 20 finalist for UCWS Hackathon 2026, 10K USD API Credits
 - 2026 - Top 30 finalist for BUIDL_OPC_Hackathon_SG, 4.5K USD AWS API Credits
+- 2026 - Best Vertical Solution (Family Office Track), One AI Hackathon by Cybrdeck
 
 
 ### Sites to Visit:
