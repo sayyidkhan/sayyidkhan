@@ -34,7 +34,6 @@ And that's all folks.
 ##### **Number of Hackathon's Participated & Completed:** 75 Hackathons
 ##### **Number of days spent at hackathon's:** 201 days
 ##### **Number of Hackathon's Won:** 22 Hackathons
-##### **Number of Awards Won:** -
 
 🏅Achievements Accomplished 🏅
 - 2016 - 1st Prize, Ed-Tech Hackathon
