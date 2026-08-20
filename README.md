@@ -32,7 +32,7 @@ And that's all folks.
 ### Hackathon Journey
 ##### **On a Journey to complete 100 Hackathons**
 ##### **Number of Hackathon's Participated & Completed:** 75 Hackathons
-##### **Number of days spent at hackathon's:** 201 days
+##### **Number of days spent at hackathon's:** 204 days
 ##### **Number of Hackathon's Won:** 22 Hackathons
 
 🏅Achievements Accomplished 🏅
